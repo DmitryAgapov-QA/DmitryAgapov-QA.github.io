@@ -74,7 +74,7 @@ body {
 	text-transform: uppercase;
 	font-weight: 900;
 	color: var(--text);
-	text-shadow: 0 0 15px #4caf5015:50 03.04.2024;
+	text-shadow: 0 0 15px #4caf50;
 }
 .layers__title {
 	font-size: calc(var(--index) * 2.65);
