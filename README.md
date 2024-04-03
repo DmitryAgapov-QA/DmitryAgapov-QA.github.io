@@ -1,2 +1,2 @@
 # DmitryAgapov-QA.github.io
-Сайт-визитка
+Сайт визитка на HTML + CSS + JS
